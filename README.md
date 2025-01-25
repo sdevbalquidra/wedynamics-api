@@ -1,6 +1,6 @@
 # wedynamics-api
 
-Multi-module maven project task management application service layer
+Multi-module maven application for project management api service layer
 
 ## Contributing
 

@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>task-management-general-api</module>
+        <module>project-management-general-api</module>
     </modules>
 
 </project>

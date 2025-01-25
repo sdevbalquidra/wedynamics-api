@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TaskManagementGeneralAPI {
+public class ProjectManagementGeneralAPI {
 
     public static void main(String[] args) {
-        SpringApplication.run(TaskManagementGeneralAPI.class, args);
+        SpringApplication.run(ProjectManagementGeneralAPI.class, args);
     }
 
 }

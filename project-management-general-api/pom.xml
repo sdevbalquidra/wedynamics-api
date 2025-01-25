@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.zenith.wedynamics</groupId>
-    <artifactId>task-management-general-api</artifactId>
+    <artifactId>project-management-general-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>task-management-general-api</name>
+    <name>project-management-general-api</name>
     <description>Wedynamics task management main API</description>
 
     <url/>
