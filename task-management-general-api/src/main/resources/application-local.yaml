@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: 'jdbc:mysql://localhost:3306/wedynamics'
+    username: 'wedynamics-adm'
+    password: 'p@55w0rd'
+
+  docker:
+    compose:
+      enabled: true
+      file: docker-compose-local.yaml
